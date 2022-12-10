@@ -1,0 +1,3 @@
+git checkout <branchName>
+git status :- to check tree
+git merge --no-ff <branchName that need to merge (From)>:- checkout to the branch where we have to merge the branch(To)
