@@ -1,3 +1,9 @@
 git checkout <branchName>
 git status :- to check tree
 git merge --no-ff <branchName that need to merge (From)>:- checkout to the branch where we have to merge the branch(To)
+git merge --no-ff qr-code
+git stash
+git add .
+git stash
+git pull origin master
+git pull
